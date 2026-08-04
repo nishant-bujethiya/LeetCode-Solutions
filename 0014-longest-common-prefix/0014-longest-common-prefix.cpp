@@ -13,3 +13,5 @@ public:
         return strs[0];
     }
 };
+
+// strs[i][j] != strs[0][j]) important 
