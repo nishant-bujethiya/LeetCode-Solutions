@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
@@ -55,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
