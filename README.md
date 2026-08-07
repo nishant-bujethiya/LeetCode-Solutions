@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3731-find-missing-elements](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
