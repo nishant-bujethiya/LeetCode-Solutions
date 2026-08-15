@@ -11,7 +11,7 @@ public:
             int v3 = nums[i];
             bestproduct = max(v1, max(v2, v3));
             worstproduct = min(v1, min(v2, v3));
-            ans = max(ans, bestproduct);
+            ans = max(ans, max(bestproduct,worstproduct));
         }
         return ans;
     }
