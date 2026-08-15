@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nishant-bujethiya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
